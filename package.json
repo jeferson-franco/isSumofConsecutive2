@@ -1,0 +1,20 @@
+{
+    "name": "issumofconsecutive2",
+    "version": "1.0.0",
+    "description": "Find the number of ways to express `n` as sum of some (at least two) consecutive positive integers.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/isSumofConsecutive2.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/isSumofConsecutive2/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/isSumofConsecutive2#readme"
+}
